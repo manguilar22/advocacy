@@ -1,0 +1,8 @@
+baseURL = "https://manguilar22.github.io"
+languageCode = "en-us"
+title = "Advocacy Website"
+
+theme = "hugo-book"
+
+[params]
+  BookMenuBundle = "/menu"
