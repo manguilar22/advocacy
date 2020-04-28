@@ -3,7 +3,8 @@ headless = true
 +++
 
 - [Table of Contents]({{< relref "/docs" >}})
+  - [Info-Graphics]({{< relref "/docs/infographic" >}})
   - [The Issue]({{< relref "/docs/problem" >}})
-  - [What are data centers?]({{<relref "/docs/data-center" >}})
-  - [I don't know what this is]({{<relref "/docs/initial-Questions" >}})
+  - [What Are Data Centers?]({{<relref "/docs/data-center" >}})
+  - [Ecological Improvements]({{<relref "/docs/initial-Questions" >}})
 - [Blog]({{< relref "/posts" >}})
