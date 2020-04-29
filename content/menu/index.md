@@ -7,4 +7,5 @@ headless = true
   - [The Issue]({{< relref "/docs/problem" >}})
   - [What Are Data Centers?]({{<relref "/docs/data-center" >}})
   - [Ecological Improvements]({{<relref "/docs/initial-Questions" >}})
-- [Blog]({{< relref "/posts" >}})
+- [References]({{< relref "/posts" >}})
+  - [CAB]({{<relref "/posts/references">}})
