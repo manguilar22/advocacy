@@ -1,6 +1,6 @@
 # Advocacy Website
 
-### Theme: [Hugo Book]()
+### Theme: [Hugo Book](https://github.com/alex-shpak/hugo-book)
 
 
 ## SaSS Compiler
