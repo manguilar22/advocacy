@@ -21,8 +21,6 @@ weight: 1
 [YouTube](https://youtu.be/J9LK6EtxzgM)
 
 
-
-
 {{< details title="Introduction" open=false >}}
 
 The topic of focus is cloud computing, hoping to explore more about cloud computing. Not the benefits people get from cloud computing, but the consequences. The consequences that come from building monumental warehouses that only purpose is to store computers. These computers are working in unison and require a lot of electricity for a warehouse to run the entire year. These computers will never turn off and will possibly be running for years until something breaks or re-purposed. Cloud computing is phenomena that is causes havoc to the environment. I want to explore the consequences cloud computing has on climate change.
