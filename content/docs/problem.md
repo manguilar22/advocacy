@@ -13,7 +13,7 @@ weight: 1
 
 ## Media: Scientific Article  
 
-[Asesses the energy consumption of data centers, because it will increase in the future.](https://www.sciencedirect.com/science/article/abs/pii/S036013231400273X?via%3Dihub)
+ An [article](https://www.sciencedirect.com/science/article/abs/pii/S036013231400273X?via%3Dihub) asessesing the energy consumption of data centers. The article states the energy required to keep a data center operational will increase in the future. This is because streaming and social-media companies need to expand to keep up with the ever-growing demand.
 
 
 ## Media: Video
